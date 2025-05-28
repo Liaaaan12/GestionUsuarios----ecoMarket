@@ -1,4 +1,4 @@
-package com.usuarios.model;
+package com.GestionUsuarios.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,8 +1,8 @@
-package com.usuarios.service;
+package com.GestionUsuarios.service;
 
-import com.usuarios.model.GerenteTienda;
-import com.usuarios.repository.GerenteTiendaRepository;
-import com.usuarios.exception.ResourceNotFoundException;
+import com.GestionUsuarios.model.GerenteTienda;
+import com.GestionUsuarios.repository.GerenteTiendaRepository;
+import com.GestionUsuarios.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

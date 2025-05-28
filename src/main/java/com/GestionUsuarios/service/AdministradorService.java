@@ -1,8 +1,8 @@
-package com.usuarios.service;
+package com.GestionUsuarios.service;
 
-import com.usuarios.model.Administrador;
-import com.usuarios.repository.AdministradorRepository;
-import com.usuarios.exception.ResourceNotFoundException;
+import com.GestionUsuarios.model.Administrador;
+import com.GestionUsuarios.repository.AdministradorRepository;
+import com.GestionUsuarios.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

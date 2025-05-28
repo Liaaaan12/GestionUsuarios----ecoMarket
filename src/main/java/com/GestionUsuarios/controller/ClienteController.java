@@ -1,8 +1,8 @@
-package com.usuarios.controller;
+package com.GestionUsuarios.controller;
 
-import com.usuarios.model.Cliente;
-import com.usuarios.model.Pedido;
-import com.usuarios.service.ClienteService;
+import com.GestionUsuarios.model.Cliente;
+import com.GestionUsuarios.model.Pedido;
+import com.GestionUsuarios.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

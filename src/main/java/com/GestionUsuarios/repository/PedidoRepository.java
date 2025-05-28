@@ -1,6 +1,6 @@
-package com.usuarios.repository;
+package com.GestionUsuarios.repository;
 
-import com.usuarios.model.Pedido;
+import com.GestionUsuarios.model.Pedido;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;
